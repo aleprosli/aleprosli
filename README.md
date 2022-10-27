@@ -15,3 +15,7 @@
 <a href="#"><img align="left" alt="digitalocean" title="digitalocean" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/digital-ocean-3521385-2944829.png" /></a>
 <a href="#"><img align="left" alt="aws" title="aws" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" /></a>
 
+###
+![Statistic Saya](https://github-readme-stats.vercel.app/api?username=aleprosli&show_icons=true)
+
+
