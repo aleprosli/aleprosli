@@ -1,7 +1,7 @@
 # Hey, I'm Aliff! 👋
 
 ### 🔭 A tech wizard that focus more on backend development that power all the awesome webapps i love. Making sure everything runs like a well-oiled machine, zippy fast and totally secure. `Always practice the best technique to be use`.
-### 📫 [Aleprosli](https://aleprosli.my/) :trollface:
+###  [Check my website](https://aleprosli.my/)
 
 ## 📈 Stats (Because Everyone Loves Numbers)
 
