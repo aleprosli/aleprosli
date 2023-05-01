@@ -1,6 +1,6 @@
 # Hey, Aliff here!👋 🐔
 
-### 🔭 A tech wizard that focus more on backend development that powered all the awesome webapps i love. Making sure everything runs like a well-oiled machine, zippy fast and totally secure. `Always practices the best technique!`.
+### A tech wizard that focus more on backend development that powered all the awesome webapps i love. Making sure everything runs like a well-oiled machine, zippy fast and totally secure. `Always practices the best technique!`.
 ###  [Click here!](https://aleprosli.my/)
 
 ## 📈 Stats (Because Everyone Loves Numbers)
