@@ -1,9 +1,9 @@
-# Hey, Aliff here!👋 🐔
+# Hey, Aliff here!👋 🐔 
 
 ### A tech wizard that focus more on backend development that powered all the awesome webapps i love. Making sure everything runs like a well-oiled machine, zippy fast and totally secure. `Always practices the best technique!`.
 ###  [Click here!](https://aleprosli.my/)
 
-## 📈 Stats (Because Everyone Loves Numbers)
+## 📈 Stats (Because Everyone Loves Number)
 
   | <a href="https://github.com/aleprosli"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleprosli&show_icons=true&include_all_commits=true&theme=highcontrast" /></a> | <a href="https://github.com/aleprosli"><img alt="Aliff Rosli Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=aleprosli&theme=highcontrast&hide_border=true&stroke=0000&background=060A0CD0"/></a> |
 | ------------- | ------------- |
